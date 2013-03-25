@@ -25,5 +25,5 @@ class Xuplau {}
 
 $json     = serialize($foo);
 $t        = new Transformer($json);
-$stdClass = $t->to("Xuplau");
+xuplau    = $t->to("Xuplau");
 ```
